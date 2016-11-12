@@ -1,1 +1,1 @@
-# Club-Information
+# Club Information
