@@ -7,5 +7,6 @@ For the very first time, Hack Coppell meetings are hosted via an online platform
 ###Club Officers
 - Siddharth Kumaran, Co-Founder and President
 - Srujay Korlakunta, Co-Founder and Vice President
+-Tanay Bidnurkar, Treasurer
 
 
