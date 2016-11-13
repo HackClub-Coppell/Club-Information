@@ -4,7 +4,7 @@ Hack Coppell is a newly formed Hack Club chapter located in Coppell, Texas. Hack
 
 For the very first time, Hack Coppell meetings are hosted via an online platform. We believe traditional classroom learning environments are archaic for learners of the 21st century. Meeting are an hour long, which are split between teaching and creating. Public workspaces and discussions boards will be created on GitHub, Cloud9, and Slack to allow students to work collaboratively beyond online meeting. On occasion, we will host Hack Nights, in which students will team up to design a product or tackle a challenge. We are very excited to pioneer an online club format, which we truly believe will help students to code at a whole new level.
 
-Visit (hackclub.com)[hackclub.com] to learn more.
+Visit [hackclub.com](hackclub.com) to learn more.
 
 ###Leadership Team
 - Siddharth Kumaran, Co-Founder and President
