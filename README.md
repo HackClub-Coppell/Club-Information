@@ -15,6 +15,7 @@ Visit [hackcoppell.com](http://hackcoppell.com) to learn more.
 To see a full list of our members, see hackcoppell.com/members.html.
 
 ###Curriculum
+To see a full list of our curriculum, see hackcoppell.com/curriculum.html.
 
 
 
