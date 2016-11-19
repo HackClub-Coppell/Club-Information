@@ -12,10 +12,10 @@ Visit [hackcoppell.com](http://hackcoppell.com) to learn more.
 - Tanay Bidnurkar, Treasurer
 
 ###Members
-To see a full list of our members, see http://hackcoppell.com/members.html.
+To see a full list of our members, see (http://hackcoppell.com/members.html).
 
 ###Workshops
-To view all the Hack Club curriculum, see http://hackcoppell.com/workshops.html.
+To view all the Hack Club curriculum, see (http://hackcoppell.com/workshops.html).
 
 
 
