@@ -12,7 +12,9 @@ Visit [hackcoppell.com](http://hackcoppell.com) to learn more.
 - Tanay Bidnurkar, Treasurer
 
 ###Members
-To see a full list of our curriculum, see hackcoppell.com/members.html.
+To see a full list of our members, see hackcoppell.com/members.html.
+
+###Curriculum
 
 
 
