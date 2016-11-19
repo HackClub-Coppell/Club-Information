@@ -1,4 +1,4 @@
-# Club Information
+# Hack Coppell
 
 Hack Coppell is a newly formed Hack Club chapter located in Coppell, Texas. Hack Club, centered in San Francisco, is a non-profit organization aimed to teach students programming. At Hack Coppell, we seek to teach students the fundamentals of programming and stem an interest in the art of code. We offer a number of workshops and resources to help new students code for the very first time. 
 
