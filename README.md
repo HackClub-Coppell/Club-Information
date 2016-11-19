@@ -14,8 +14,8 @@ Visit [hackcoppell.com](http://hackcoppell.com) to learn more.
 ###Members
 To see a full list of our members, see hackcoppell.com/members.html.
 
-###Curriculum
-To see a full list of our curriculum, see hackcoppell.com/curriculum.html.
+###Workshops
+To view all the Hack Club curriculum, see hackcoppell.com/workshops.html.
 
 
 
