@@ -6,15 +6,15 @@ For the very first time, Hack Coppell meetings are hosted via an online platform
 
 Visit [hackcoppell.com](http://hackcoppell.com) to learn more.
 
-###Leadership Team
+### Leadership Team
 - Siddharth Kumaran, Co-Founder and President
 - Srujay Korlakunta, Co-Founder and Vice President
 - Tanay Bidnurkar, Treasurer
 
-###Members
+### Members
 To see a full list of our members, see [hackcoppell.com/members.html](http://hackcoppell.com/members.html).
 
-###Workshops
+### Workshops
 To view all the Hack Club curriculum, see [hackcoppell.com/workshops.html](http://hackcoppell.com/workshops.html).
 
 
